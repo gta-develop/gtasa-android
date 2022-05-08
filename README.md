@@ -6,6 +6,6 @@ Step 1: Read This Page https://github.com/GTA-ASM/SanAndreasUnity/wiki/Running-o
 
 Step 2:Download GTASA PC Lite (without audio foolder) From Here
 
-Step 3:Open App And Set GTASA Foolder,Click On Start Game,Enjoy!
+Step 3:Open App And Set GTASA Folder,Click On Start Game,Enjoy!
 
 # Demo
